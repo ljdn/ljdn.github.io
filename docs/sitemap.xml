@@ -3,16 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://lej.site/</loc>
+    <loc>https://ljdn.github.io/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://lej.site/categories/</loc>
+    <loc>https://ljdn.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>http://lej.site/tags/</loc>
+    <loc>https://ljdn.github.io/tags/</loc>
   </url>
   
 </urlset>
