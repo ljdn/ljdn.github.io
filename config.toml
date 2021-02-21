@@ -15,6 +15,7 @@ author = "ljdn"
 description = "I write code | Bay Area"
 profilePicture = "images/profile_circle.png"
 disableKinds = ["taxonomy", "taxonomyTerm"]
+doNotLoadAnimations = true
 
 [[params.socialIcons]]
 icon = "fab fa-linkedin"
