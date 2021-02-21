@@ -1,0 +1,36 @@
+baseURL = "http://lej.site/"
+languageCode = "en-us"
+title = "lej.site"
+enableEmoji = true
+
+theme = "anatole"
+
+[params]
+displayMode = "dark"
+disableThemeSwitcher = true
+mainSections = ["about", "work", "non-work"]
+title = "Hi, I'm Lejia"
+author = "lej"
+description = "I write code | bay area"
+profilePicture = "images/profile_circle.png"
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/lejiaduan/"
+
+[[params.socialIcons]]
+icon = "fab fa-github"
+title = "GitHub"
+url = "https://github.com/ljdn"
+
+[[params.socialIcons]]
+icon = "fab fa-instagram"
+title = "instagram"
+url = "https://www.instagram.com/"
+
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "mailto:lejia.duan@gmail.com"
