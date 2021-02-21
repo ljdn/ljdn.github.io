@@ -1,0 +1,6 @@
+Here is a condensed timeline of relevant events in my life, in reverse chronological order:
+
+- Currently working as a **software engineer** on Instagram video chat ([yes, you can video chat in IG!](https://about.instagram.com/blog/announcements/introducing-instagram-video-chat-and-more)): [rotational engineering](https://www.facebook.com/careers/life/facebooks-rotational-engineering-program) grad; iOS in Swift and Objective-C; bugging my coworkers to accessibility test their features; mentoring new hires through bootcamp
+- Worked as a **consultant developer** at [ThoughtWorks](https://www.thoughtworks.com/): writing Java, React and Kotlin; evangelizing agile, pairing, and test-driven development; getting on a plane twice a week and living out of a suitcase
+- Graduated with a major in **neurobiology** from Northwestern University, dabbled in computer science, psychology, classics, global health, and engineering along the way, and spent a semester in Paris studying French and the history of the European Union
+- Learned the basics of HTML to make my Neopets page look good

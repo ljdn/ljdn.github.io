@@ -11,8 +11,8 @@ displayMode = "dark"
 disableThemeSwitcher = true
 mainSections = ["about", "work", "non-work"]
 title = "Hi, I'm Lejia"
-author = "lej"
-description = "I write code | bay area"
+author = "ljdn"
+description = "I write code | Bay Area"
 profilePicture = "images/profile_circle.png"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
@@ -27,11 +27,26 @@ title = "GitHub"
 url = "https://github.com/ljdn"
 
 [[params.socialIcons]]
-icon = "fab fa-instagram"
-title = "instagram"
-url = "https://www.instagram.com/"
-
-[[params.socialIcons]]
 icon = "fas fa-envelope"
 title = "e-mail"
 url = "mailto:lejia.duan@gmail.com"
+
+[menu]
+
+  [[menu.main]]
+  name = "/about"
+  identifier = "about"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "/work"
+  weight = 200
+  identifier = "work"
+  url = "/work"
+
+  [[menu.main]]
+  name = "/site"
+  weight = 300
+  identifier = "site"
+  url = "/site"
