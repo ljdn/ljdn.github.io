@@ -1,4 +1,4 @@
-Hey, I'm Lejia
+Hi, I'm Lejia
 
 :woman_technologist: Currently a software engineer at Instagram 
 
@@ -10,4 +10,3 @@ Outside of work, I:
 - :climbing: can often be found at the bouldering gym,
 - :fountain_pen: attempt the NYT crossword everyday,
 - :tea: and drink a lot of tea.
-
