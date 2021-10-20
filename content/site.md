@@ -1,1 +1,1 @@
-The site you are looking at is written in [Hugo](https://gohugo.io/) and hosted on Github. 
+This site is written in [Hugo](https://gohugo.io/) and hosted on [Netlify](https://www.netlify.com/). 
