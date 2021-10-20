@@ -2,7 +2,7 @@ baseURL = "/"
 languageCode = "en-us"
 title = "lej.site"
 enableEmoji = true
-publishDir = "docs"
+publishDir = "public"
 
 theme = "anatole"
 
