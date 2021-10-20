@@ -1,1 +1,1 @@
-This website is my way of playing with new web stacks. The current iteration is written in [Hugo](https://gohugo.io/), which was ridiculously easy to setup and host through GitHub. 
+The site you are looking at is written in [Hugo](https://gohugo.io/) and hosted on Github. 
